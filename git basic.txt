@@ -9,3 +9,6 @@ git add .
 git commit -m "J man lagxa tei msg lekhne"
 git remote add origin https://github.com/suman071/code.git  --> 1st time matra use garne
 git push origin master
+
+
+sakkiyo
